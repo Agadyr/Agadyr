@@ -35,7 +35,7 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
 </a>
 
 
-<a href="https://github.com/Agadyr/youtube-Api">
+<a href="https://github.com/Agadyr/YoutubeApi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=youtube-Api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
@@ -50,7 +50,7 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/Agadyr/Agadyr/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
