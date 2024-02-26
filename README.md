@@ -42,6 +42,9 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=YoutubeApi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+
+https://github-profile-trophy.vercel.app/?username=Agadyr-ma&theme=darkhub
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
