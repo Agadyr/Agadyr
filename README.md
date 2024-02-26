@@ -9,14 +9,13 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Laravel-py?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/react-py?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/php-py?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Laravel-py?style=flat&label=tima&labelColor=gray&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/react-py?style=flat&label=tima&labelColor=gray&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/php-py?style=flat&label=tima&labelColor=gray&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/next-js?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/redux-toolkit?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/next-js?style=flat&logo=nextdotjs&logoColor=white&label=frame&labelColor=gray&color=2bbc8a)
+![](https://img.shields.io/badge/redux-toolkit?style=flat&logo=redux&logoColor=white&label=redux&labelColor=gray&color=2bbc8a)
 
 
 
@@ -36,7 +35,7 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
 
 
 <a href="https://github.com/Agadyr/YoutubeApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=youtube-Api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=YoutubeApi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
