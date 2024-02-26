@@ -18,7 +18,7 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
 ![](https://img.shields.io/badge/react-py?style=flat&label=DOM&labelColor=gray&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/next-js?style=flat&logo=nextdotjs&logoColor=white&label=frame&labelColor=gray&color=2bbc8a)
 ![](https://img.shields.io/badge/redux-toolkit?style=flat&logo=redux&logoColor=white&label=redux&labelColor=gray&color=2bbc8a)
-![](https://img.shields.io/badge/postman-toolkit?style=flat&logo=toolkit&logoColor=white&label=postman&labelColor=gray&color=2bbc8a)
+![](https://img.shields.io/badge/postman-toolkit?style=flat&logo=postman&logoColor=white&label=toolkit&labelColor=gray&color=2bbc8a)
 
 
 
