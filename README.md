@@ -43,7 +43,7 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
 </a>    
 
 
-https://github-profile-trophy.vercel.app/?username=Agadyr-ma&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?username=Agadyr-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- links to social media icons -->
 
