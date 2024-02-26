@@ -18,8 +18,6 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
 ![](https://img.shields.io/badge/next-js?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/redux-toolkit?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
-
 
 
 
@@ -32,13 +30,13 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Agadyr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agadyr's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Agadyr/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Agadyr/headhunter-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=headhunter-frontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/Agadyr/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Agadyr/youtube-Api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=youtube-Api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
