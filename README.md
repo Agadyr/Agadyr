@@ -34,7 +34,7 @@ My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, l
 </a>
 
 <a href="https://github.com/Agadyr/recruv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=headhunter-recruv&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=recruv&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
