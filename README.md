@@ -5,6 +5,12 @@
 
 My name is Madi Kairambekov and I'm a software developer. I'm from Kazakhstan, living in Karahanda. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
+## 🏆 Achievements
+
+I participated in **WorldSkills Karaganda** and **WorldSkills Kazakhstan** in the **Web Technologies** competency and achieved **prize-winning positions**. My performance showcased my expertise in modern web development.
+
+In the repositories starting with **"ws"**, you can explore the assignments and projects I worked on during these competitions. Feel free to check them out and see how I tackled real-world challenges!
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
