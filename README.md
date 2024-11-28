@@ -75,7 +75,8 @@ In the repositories starting with **"ws"**, you can explore the assignments and 
 
 [1]: https://twitter.com/kairambekov
 [2]: https://github.com/Agadyr
-[3]: https://www.linkedin.com/in/madi-kairambekov-591754299/
+[3]: https://t.me/ainnnerin
+[4]: https://www.linkedin.com/in/madi-kairambekov-591754299/
 
 
 <!-- Resources -->
