@@ -47,8 +47,8 @@ In the repositories starting with **"ws"**, you can explore the assignments and 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=recruv_search_service&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/Agadyr/YoutubeApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=YoutubeApi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Agadyr/youtube_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agadyr&repo=youtube_api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>      
 
 <a href="https://github.com/Agadyr/laravel_react_messenger">
